@@ -1,2 +1,2 @@
 # Python-Course
-These files are abot practice tasks coding of python
+These files are about practice tasks coding of python language
